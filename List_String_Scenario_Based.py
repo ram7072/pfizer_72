@@ -1,4 +1,4 @@
-Menu-driven program 
+Menu-driven programs
 Scenario: Student Record System
 Read N student names from the user.
 Perform multiple operations like add, remove, insert, pop, search, count, index, slice, reverse, sort, join, and clear.
